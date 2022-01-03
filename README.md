@@ -46,6 +46,5 @@ The value of a given cell at a given instant of time depends on the state of its
 
 Note: If you want you can change from the application's main the size of the game board (line 371) and the generations of the game by changing the iterations (line 378)
 
-
 ### 5 - User Support
 For help or new feature suggestions you can contanct with the development team.
