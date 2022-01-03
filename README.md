@@ -17,7 +17,7 @@ A cell (i, j) in the simulation is accessed on an array[i][j], where i and j are
 The value of a given cell at a given instant of time depends on the state of its neighbors at the previous generation. 
 
 <p align="left">
-<img src="https://user-images.githubusercontent.com/72802400/147938553-26c692dd-cccc-4dba-8666-8585ae69b0ce.png">
+<img src="https://user-images.githubusercontent.com/72802400/147940215-9f76af32-81c0-49ba-8eb3-2914bf167183.gif">
 </p>
 
 ### 3 - Conway’s Game of Life Rules
