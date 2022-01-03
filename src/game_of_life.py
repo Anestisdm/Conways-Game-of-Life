@@ -367,7 +367,7 @@ if __name__ == '__main__':
      The board of the game displays in every step.
     """
 
-    # Arxikos pinakas
+    # Initial board
     game = board(10)
     place_blinker(game, (1,2))
     place_glider(game, (2,4))
